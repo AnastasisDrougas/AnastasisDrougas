@@ -1,6 +1,6 @@
 # Hi, Im Anastasis!
 ## 💫 About Me:
-🤖 I’m currently learning The fundamentals of AI/ML, with a focus on mathematical foundations, neural network architectures, and practical implementation using PyTorch. I am deeply passionate about machine learning, artificial intelligence, and neural networks, and I’m constantly motivated to learn and explore their potential. 
+🤖 I’m currently learning The fundamentals of AI/ML, with a focus on mathematical foundations, neural network architectures, and practical implementation using PyTorch. I am deeply passionate about machine learning, artificial intelligence and neural networks. I’m constantly motivated to learn and explore their potential. 
 
 
 ## 🌐 Socials:
