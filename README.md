@@ -14,7 +14,9 @@
 
 
 # 🍩 Programming Language Charm
-![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=AnastasisDrougas&layout=donut&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=AnastasisDrougas&layout=donut&theme=dracula" alt="Top Langs">
+</p>
 
 
 
