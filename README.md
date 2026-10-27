@@ -1,18 +1,10 @@
 
-<h1 align="center">Hi, I'm Anastasis Drougas!</h1>
-<h3 align="center">Informatics & Telematics Student</h3>
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tasosdrougas13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anastasios-drougas-b79a262a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
-
+<h1 align="center">Anastasis Drougas</h1>
 
 <p align="center">
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
-<legend align="left"><h3>👨‍💻 About Me</h3></legend>
+<legend align="left"><h3> About Me</h3></legend>
  <em>
 I'm an <strong>Informatics and Telematics student </strong> at <strong>Harokopio University of Athens</strong>. passionate about DevOps, MLOps, Cloud Computing, Machine Learning and AI, I am currently:</p>
   </em> 
@@ -59,10 +51,17 @@ I'm an <strong>Informatics and Telematics student </strong> at <strong>Harokopio
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
   </kbd>
   <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
+</p>
+
+<div align= "center">
+<b><i>Connect With Me</i></b>
 </div>
 
+<br>
 
-
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tasosdrougas13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anastasios-drougas-b79a262a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
