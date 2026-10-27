@@ -20,7 +20,7 @@ I'm an <strong>Informatics and Telematics student </strong> at <strong>Harokopio
 <em>
   <ul>
     <li>Exploring Machine Learning, Deep Learning, and Computer Vision.</li>
-    <li>Learning about Cloud Computing, DevOps, and CI/CD automation.</li>
+    <li>Learning about Software engineering, DevOps, and CI/CD automation.</li>
     <li>Building projects and learning by experimenting with new technologies.</li>
   </ul>
 </em>
